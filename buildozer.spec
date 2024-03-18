@@ -4,7 +4,7 @@
 title = My Application
 
 # (str) Package name
-package.name = mykivyapp
+package.name = kivyapp
 
 # (str) Package domain (needed for android/ios packaging)
 package.domain = org.mydomain
